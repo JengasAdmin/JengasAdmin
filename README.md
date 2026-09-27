@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я Jengas 👋</h1>
+<h1 align="center">Привет, я Вячеслав aka Jengas 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2600&pause=1000&color=58A6FF&center=true&width=740&lines=Full-Stack+разработчик;Lua-скрипты+для+GTA:SA+MoonLoader;Discord-боты+и+веб-платформы;TypeScript+·+React+·+Next.js" alt="Typing SVG" />
